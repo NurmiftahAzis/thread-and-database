@@ -32,3 +32,11 @@ Selain itu, aplikasi juga memiliki fitur tambahan berupa proses thread pengingat
 **Kesimpulan**
 
 Program Manajemen Hotel Sederhana merupakan contoh penerapan pemrograman berorientasi objek, antarmuka pengguna berbasis Swing, serta integrasi database MySQL. Aplikasi ini mampu melakukan operasi dasar seperti menambah, melihat, dan menghapus data, serta melakukan perhitungan otomatis berdasarkan logika bisnis sederhana. Dengan tampilan GUI yang mudah digunakan dan alur kerja yang jelas, program ini dapat dijadikan dasar untuk pengembangan sistem manajemen hotel yang lebih kompleks di masa depan.
+
+**Output**
+
+Hasil Database
+![HASIL RUN 1](Output/Database.png)
+
+Hasil Running
+![HASIL RUN 2](Output/Run.png)
